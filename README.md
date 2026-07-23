@@ -31,14 +31,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadallkhayat&hide_border=true&background=0D1117&ring=D1660B&fire=D1660B&currStreakLabel=D1660B" alt="GitHub Streak"/>
-</div>
-
-<br>
-
 ### 🚀 Featured Projects
 
 <div align="center">
