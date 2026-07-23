@@ -40,7 +40,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚗 **[Usama Auto](https://usama-auto.com)** | E-commerce ecosystem for auto parts — Laravel backend/store, iOS Expo app wrapper, Node.js WhatsApp notification daemon | Laravel · Kotlin · Node.js |
+| 🚗 **Usama Auto** | E-commerce ecosystem for auto parts — Laravel backend/store, iOS Expo app wrapper, Node.js WhatsApp notification daemon | Laravel · Kotlin · Node.js |
 | 💰 **PFMS** | Personal finance management system — multi-currency (IQD/USD) deposits, safe transfers, expenses, projects | Laravel · Tailwind · Alpine.js |
 | 📱 **LedgerOne** | Single-store POS & ledger for a phone shop — IMEI inventory, dual-currency sales & installments, supplier purchases | Laravel · MySQL |
 | 🛒 **MobiPos** | Point-of-sale system for mobile accessory shops | Laravel · Tailwind · Alpine.js |
