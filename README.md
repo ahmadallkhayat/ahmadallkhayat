@@ -1,30 +1,68 @@
-### Hi, I'm Ahmad Salahaddin 👋
+<div align="center">
 
-Computer Engineer & IT Specialist — 5+ years building cross-platform apps (Flutter/Dart) and full-stack systems, plus IT infrastructure engineering. Based in Erbil, Iraq.
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=28&duration=3000&pause=1000&color=D1660B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Salahaddin;Computer+Engineer+%26+IT+Specialist;Flutter+%2F+Full-Stack+%2F+Infrastructure" alt="Typing SVG" />
 
-- 🔭 Currently building: **Usama Auto Ecosystem**, **RTR CTMS**, **PFMS**, **Servex POS**
-- 🧠 Also into computer vision / hardware integrations — see **HandMouse.PY**
-- 🌐 Portfolio: [ahmadallkhayat.github.io](https://ahmadallkhayat.github.io/)
-- 📫 Reach me: [email](mailto:ahmadsadiqkhayat@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmad-salahaddin-531495288)
+<p>5+ years building cross-platform apps (Flutter/Dart) and full-stack systems, plus IT infrastructure engineering. Based in Erbil, Iraq.</p>
 
----
+<p>
+  <a href="https://ahmadallkhayat.github.io/"><img src="https://img.shields.io/badge/Portfolio-ahmadallkhayat.github.io-D1660B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-salahaddin-531495288"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahmadsadiqkhayat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D1660B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-#### Tech I work with
+</div>
 
-`Flutter` `Dart` `Python` `JavaScript` `Node.js` `SQL` `Computer Vision (OpenCV)` `Networking & IT Infrastructure`
+<br>
 
-#### Featured Projects
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D1660B?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D1660B?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-D1660B?style=flat-square&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20Networking-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadallkhayat&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=D1660B&icon_color=D1660B&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadallkhayat&hide_border=true&background=0D1117&ring=D1660B&fire=D1660B&currStreakLabel=D1660B" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadallkhayat&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=D1660B&text_color=C9D1D9" alt="Top Languages"/>
+</div>
+
+<br>
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+[![HandMouse.PY](https://img.shields.io/badge/HandMouse.PY-Hand--gesture%20mouse%20controller-D1660B?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/ahmadallkhayat/handmouse-py)
+
+</div>
 
 | Project | Description |
 |---|---|
-| [HandMouse.PY](https://github.com/ahmadallkhayat/handmouse-py) | Hand-gesture computer vision mouse controller |
-| Usama Auto Ecosystem | Cross-platform app suite |
-| RTR CTMS | Client tracking management system |
-| PFMS | Finance management system |
-| Servex POS | Restaurant point-of-sale system |
-| MobiPos | Accessory store POS |
-| SilkRoute | Buying trips management |
+| 🚗 **Usama Auto Ecosystem** | Cross-platform app suite |
+| 📋 **RTR CTMS** | Client tracking management system |
+| 💰 **PFMS** | Finance management system |
+| 🍽️ **Servex POS** | Restaurant point-of-sale system |
+| 📱 **MobiPos** | Accessory store POS |
+| 🧳 **SilkRoute** | Buying trips management |
 
----
+<br>
 
-<sub>This README powers my GitHub profile card. Full portfolio with case studies at [ahmadallkhayat.github.io](https://ahmadallkhayat.github.io/).</sub>
+<div align="center">
+<sub>Full portfolio with case studies at <a href="https://ahmadallkhayat.github.io/">ahmadallkhayat.github.io</a></sub>
+</div>
